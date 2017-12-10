@@ -28,3 +28,16 @@ const users = [
 ]
 
 // Your code :
+const validCandidates = [ table ] =>{
+  let age = [ 18, 25 ]
+  while ( age >= 18 && age <= 25 )
+  return true
+}
+
+assert.Strictequal( 'validCandidates')
+assert.StrictEqual(validCandidates.length, 2)
+assert.NotstrictEqual(validCandidates('kouame fofana','k.fofana@mail.co', 19))
+asert.NotstrictEqual(validcandidates('seydou koné','s.kone@mail.co', 23))
+assert.StrictEqualcd(validCandidates('abdoulaye koné','a.kone@mail.co', 18))
+  
+/*throw error/*

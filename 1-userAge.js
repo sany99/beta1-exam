@@ -10,3 +10,4 @@
 const user = {} // copy the one from the previous exercice
 
 // Your code :
+const userAge = obj => 

@@ -20,3 +20,9 @@
  */
 
 // Your code :
+const user = 
+
+
+
+
+assert.StrictEqual( 'user')
